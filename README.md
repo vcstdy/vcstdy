@@ -1,4 +1,10 @@
-Hii
+Hi 👩🏻‍🦰 
+<br>
+I use this account only for studies and tests
+<br>
+and sharing my routine and learning. 💻
+
+
 
  <div>
   <a href="https://github.com/vcstdy">
@@ -22,9 +28,9 @@ Hii
 </div>
   
   ##
-  
+ 
   <div>
-  
+ 
   <a href="https://instagram.com/vcstdy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/UC7iefgosi0HZnC3rcJCEwKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
