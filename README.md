@@ -1,16 +1,19 @@
-Hi 👩🏻‍🦰 
+### Hi 👩🏻‍🦰 
 <br>
 I use this account only for studies and tests
 <br>
 and sharing my routine and learning. 💻
+<br>
 
 
 
  <div>
+ <br>
   <a href="https://github.com/vcstdy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcstdy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcstdy&layout=compact&langs_count=7&theme=radical"/>
     
+   ###
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +25,6 @@ and sharing my routine and learning. 💻
   <img align="center" alt="Vi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-    
     
   <img align="right" height="180em" alt="hivii" src="https://cdn.discordapp.com/attachments/878042066700107830/878046922819141713/hivii.gif">
 </div>
